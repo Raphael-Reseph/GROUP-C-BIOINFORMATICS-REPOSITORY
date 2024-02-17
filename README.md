@@ -1,24 +1,18 @@
 # GROUP-C-BIOINFORMATICS-REPOSITORY
 
-
 ## Description
-This domain is for sale. If you are interested in purchasing it, please contact us at info@nekki.com.
+GROUP C Bioinformatics is a group from ANAT 408 bioinformatiics, Anatomy Department, Gombe State University which were given an assignment on using different programming languages to run a general scipt that describes their name, email address, slack username and area of interest. Group C have successfully developed a general Bash Script by creating singular personified scripts that was collaboratively sent to the git hub.
 
-## Contact Information
-For any inquiries or to express your interest in acquiring this domain, please reach out to us at:
-Email: info@nekki.com
+##GROUP MEMBERS
+1. RAPHAEL RESEPH
+2. ANATHOTH ALHASSAN
+3. ALFRED BATUGAN
+4. ISAAC JAMES
 
-## Domain Details
+## Group C Details
 | Name | Registration No.        | Language used       |
 |-------------|-------------|-------------|
-| Raphael Reseph | Premium     | $10,000     |
-| test.com    | Standard    | $5,000      |
-| demo.com    | Basic       | $2,000      |
-
-Please note that the prices listed above are subject to negotiation.
-
-## License
-This domain is sold as-is, without any warranties or guarantees. The buyer assumes full responsibility for any future use or modifications made to the domain.
-
-## Additional Information
-For any additional information or queries regarding this domain, please contact us at info@nekki.com.
+| Raphael Reseph | UG18/MDHA/1025     | Python     |
+| Anathoth Alhassan    | UG17/MDHA/1006    | Bash      |
+| Alfred Batugan    | UG18/MDHA/1015       | R      |
+| Isaac James    | UG18/MDHA/1023       | Ruby      |
