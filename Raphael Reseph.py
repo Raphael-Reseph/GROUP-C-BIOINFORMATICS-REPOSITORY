@@ -1,0 +1,5 @@
+print("My informations")
+print("Name: Raphael Reseph Manu")
+print("Email: Echood24@gmail.com")
+print("Slack Username: Raphael Reseph")
+print("Interest: DNA sequencing")
