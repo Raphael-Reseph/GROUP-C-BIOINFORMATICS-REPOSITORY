@@ -1,0 +1,5 @@
+print("my information")
+print ("Name: Alfred Batugan")
+print ("email: jahilciman001@gmail.com")
+print ("Slack username: Alfred Batugan" )
+print ("Interest :Data sequencing")
