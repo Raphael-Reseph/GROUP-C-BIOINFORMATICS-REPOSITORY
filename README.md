@@ -1,5 +1,5 @@
 # GROUP-C-BIOINFORMATICS-REPOSITORY
-# Read.me
+
 
 ## Description
 This domain is for sale. If you are interested in purchasing it, please contact us at info@nekki.com.
